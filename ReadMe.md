@@ -15,7 +15,7 @@ Compatibility:
 
 Installation: 
 ```http
-$ npm install react-native-dropdown-select-list
+$ npm install react-native-animation-story
 ```
 
 
