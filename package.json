@@ -1,7 +1,7 @@
 {
   "name": "react-native-animation-story",
   "version": "1.0.3",
-  "description": "",
+  "description": "react-native-animation-story",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,8 @@
     "react",
     "native",
     "animation",
-    "story"
+    "story",
+    "react-native-animation-story"
   ],
   "author": "hoannguyen1352",
   "devDependencies": {
