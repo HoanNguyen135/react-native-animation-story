@@ -15,7 +15,9 @@ Compatibility:
 
 Installation: 
 ```http
-$ npm install react-native-animation-story
+
+$npm install react-native-animation-story
+
 ```
 
 
