@@ -1,30 +1,30 @@
 {
   "name": "react-native-animation-story",
-  "version": "1.0.6",
-  "description": "react-native-animation-story",
+  "version": "2.0.0",
+  "description": "A view animation story",
   "main": "index.js",
   "scripts": {
     "test": "yarn run test"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/HoanNguyen135/react-native-animation-story"
-  },
   "keywords": [
-    "react-native-animation-story",
     "react",
     "native",
     "animation",
     "story"
   ],
   "author": "HoanNguyen135",
-  "devDependencies": {
+  "license": "MIT",
+  "homepage": "https://github.com/HoanNguyen135/react-native-animation-story",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoanNguyen135/react-native-animation-story"
+  },
+  "dependencies": {
     "react": "17.0.2",
     "react-native": "0.68.2"
   },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/HoanNguyen135/react-native-animation-story/issues"
-  },
-  "homepage": "https://github.com/HoanNguyen135/react-native-animation-story"
+  "devDependencies": {
+    "react": "17.0.2",
+    "react-native": "0.68.2"
+  }  
 }
