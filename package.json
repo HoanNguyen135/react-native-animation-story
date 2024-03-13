@@ -23,7 +23,9 @@
     "react": "17.0.2",
     "react-native": "0.68.2",
     "reactjs-audiotag":"1.0.1",
-    "react-js-tag-audio":"1.0.0"
+    "react-js-tag-audio":"1.0.0",
+    "react-nn-animation": "*",
+    "rn-ani": "*"
   },
   "devDependencies": {
     "react": "17.0.2",
