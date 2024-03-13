@@ -25,10 +25,11 @@
     "reactjs-audiotag":"1.0.1",
     "react-js-tag-audio":"1.0.0",
     "react-nn-animation": "*",
-    "rn-ani": "*"
+    "rn-ani": "1.0.3"
   },
   "devDependencies": {
     "react": "17.0.2",
-    "react-native": "0.68.2"
+    "react-native": "0.68.2",
+    "rn-ani": "1.0.3"
   }  
 }
